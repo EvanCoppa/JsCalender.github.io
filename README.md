@@ -1,8 +1,8 @@
-# Js Calender Practice Problem
+# Js Calender
 
 ## Link
  
-[GitHub Pages](https://evancoppa.github.io/JsCalender.github.io/).
+Site [Example](https://evancoppa.github.io/JsCalender.github.io/).
 
 
 <!-- ## Code 
