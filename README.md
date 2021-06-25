@@ -2,10 +2,10 @@
 
 ## Link
 ```
-This site Is Hosted using [GitHub Pages](https://github.com/EvanCoppa/JsCalender.github.io.git).
+This site Is Hosted using [GitHub Pages](https://evancoppa.github.io/JsCalender.github.io/).
 ```
-## Code 
+<!-- ## Code 
 
 ### Generate Calender 
 
-![Image Of Code](https://evancoppa.github.io/JsCalender.github.io/images/genCalender.png)
+![Image Of Code](https://evancoppa.github.io/JsCalender.github.io/images/genCalender.png) -->
