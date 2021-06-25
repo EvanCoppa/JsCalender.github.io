@@ -2,7 +2,7 @@
 
 ## Link
 ```
-This site Is Hosted using [GitHub Pages](https://evancoppa.github.io/JsCalender.github.io/).
+This site Is Hosted using GitHub Pages (https://evancoppa.github.io/JsCalender.github.io/).
 ```
 <!-- ## Code 
 
