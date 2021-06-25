@@ -8,4 +8,4 @@ This site Is Hosted using [GitHub Pages](https://github.com/EvanCoppa/JsCalender
 
 ### Generate Calender 
 
-![Image Of Code](images\genCalender.png)
+![Image Of Code](https://evancoppa.github.io/JsCalender.github.io/images/genCalender.png)
