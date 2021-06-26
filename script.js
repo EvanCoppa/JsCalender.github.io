@@ -47,10 +47,12 @@ function populate() {
 }
 
 function generateCalender() {
+  
+  
   populate();
   let monthIndex = 0;
-  dayCount = 5;
-
+   dayCount = (window.prompt("Enter a Number According to the day the year starts on Example: Monday = 1, Sunday = 7, 2021 Starts on a Friday = 5"));
+   dayCount = dayCount - 1;
   for (element of months) {
     tbl = tables[monthIndex];
     let thead = tbl.createTHead();
@@ -98,4 +100,6 @@ function generateCalender() {
     }
     monthIndex++;
   }
+document.getElementById("button1").style.opacity = "0";
+
 }
